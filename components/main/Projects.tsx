@@ -12,17 +12,17 @@ const Projects = () => {
       </h1>
       <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
         <ProjectCard
-          src="/NextWebsite.png"
+          src="./NextWebsite.png"
           title="Modern F-Drive"
           description="F-Drive app for storing document. Made using frappe framework and Vue.js."
         />
         <ProjectCard
-          src="/CardImage.png"
+          src="./CardImage.png"
           title="NoticeBoard for GNDEC"
           description="Notice app created to display notice for GNDEC College."
         />
         <ProjectCard
-          src="/SpaceWebsite.png"
+          src="./SpaceWebsite.png"
           title="Space Themed Website"
           description="Space themed portfolio website."
         />
